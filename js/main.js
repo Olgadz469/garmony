@@ -9,16 +9,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
     // effect: "fade",
   });
 });
-// обработка анимации на мобильных устр
-// document.addEventListener("DOMContentLoaded", () => {
-//   const cards = document.querySelectorAll(".gallery__card");
-
-//   cards.forEach((card) => {
-//     card.addEventListener("click", () => {
-//       card.classList.toggle("flipped");
-//     });
-//   });
-// });
 
 // бургер меню
 document.addEventListener("DOMContentLoaded", () => {

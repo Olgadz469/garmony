@@ -330,9 +330,9 @@ button {
 .gallery__card:hover .gallery__card-inner {
   transform: rotateY(180deg);
 }
-.gallery__card.flipped .gallery__card-inner {
+/* .gallery__card.flipped .gallery__card-inner {
   transform: rotateY(180deg);
-}
+} */
 
 .gallery__card-front,
 .gallery__card-back {

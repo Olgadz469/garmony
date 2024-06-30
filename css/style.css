@@ -51,7 +51,7 @@
 }
 
 /* смена темы сайта , в зависимости от темы в системе */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     --textcolor-light: #151515;
     --textcolor-dark: #fafafa;
@@ -61,7 +61,7 @@
     --akcentdark-bg: #fafafa;
     --action: #8a8635;
   }
-}
+} */
 html {
   box-sizing: border-box;
 }
